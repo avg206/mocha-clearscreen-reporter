@@ -1,0 +1,14 @@
+{
+  "name": "mocha-clearscreen-reporter",
+  "version": "1.0.0",
+  "description": "Reporter for mocha, to clear screen before each run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anatoli Huseu",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
